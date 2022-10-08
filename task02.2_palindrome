@@ -1,0 +1,5 @@
+str1 = input('Input palindrome >\n')
+str2 = str1.replace(' ', '')
+str_len = str2.__len__()
+str3 = str2[str_len:str_len//2:-1]
+print(str3 == str2[0:str_len//2:1])
