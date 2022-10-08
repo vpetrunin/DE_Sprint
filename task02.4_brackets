@@ -1,0 +1,34 @@
+def checkValidity(str):
+    #print(str)
+    if str.__len__() == 0:
+        return True
+    if str.__len__() % 2 == 1: 
+        #print('Odd')
+        return False 
+    first_symbol = str[0]
+    if (first_symbol == ')') or (first_symbol == ']') or (first_symbol == '}'):
+        #print('Closing')
+        return False  
+    first_symbol_pair = {'(':')', '[':']','{':'}'}.get(first_symbol);
+    count = 1
+    index = 0
+    while (count > 0):
+        index = index + 1
+        if index == str.__len__():
+            break
+        if str[index] == first_symbol:
+            count = count + 1
+        if str[index] == first_symbol_pair:
+            count = count - 1
+    # A pair is not found but the string end is reached
+    if index == str.__len__():
+        #print('No pair')
+        return False
+    # Inner (within the paired brackets) substring check
+    if not checkValidity(str[1:index]):
+        #print('Inner fail')
+        return False 
+   #print('Tail check')
+    return checkValidity(str[index+1:])
+str1 = input('Input brackets >\n')
+print(checkValidity(str1))
