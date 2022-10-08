@@ -1,0 +1,6 @@
+num1=input('Type num1:')
+num2=input('Type num2:')
+num1=int(num1, 2)
+num2=int(num2, 2)
+mult=bin(num1*num2)
+print(mult[2:])
