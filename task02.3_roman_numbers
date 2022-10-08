@@ -1,0 +1,17 @@
+d = int(input('Input a number >\n'))
+roman = ''
+for i in range(d):
+    roman = roman + 'I'
+    roman = roman.replace('IIII', 'IV')
+    roman = roman.replace('IVI', 'V')
+    roman = roman.replace('VIV', 'IX')
+    roman = roman.replace('IXI', 'X')
+    roman = roman.replace('XXXX', 'XL')
+    roman = roman.replace('XLX', 'L')
+    roman = roman.replace('LXL', 'XC')
+    roman = roman.replace('XCX', 'C')
+    roman = roman.replace('CCCC', 'CD')
+    roman = roman.replace('CDC', 'D')
+    roman = roman.replace('DCD', 'CM')
+    roman = roman.replace('CMC', 'M')
+print(roman)
