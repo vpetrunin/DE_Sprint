@@ -1,0 +1,349 @@
+{
+    "data": [
+        {
+            "Title": "Presales Manager Sandbox",
+            "Employer": "Лаборатория Касперского",
+            "Requirements": [
+                "Инженер по безопасности",
+                "Средний (Middle)",
+                "Информационная безопасность"
+            ],
+            "Location": [
+                "Москва"
+            ]
+        },
+        {
+            "Title": "Linux-инженер в сектор служб каталогов",
+            "Employer": "ГК Астра",
+            "Requirements": [
+                "Системный администратор",
+                "Младший (Junior)",
+                "DNS",
+                "Active directory",
+                "Администрирование Linux",
+                "Zabbix"
+            ],
+            "Location": [
+                "Можно удаленно",
+                "Москва"
+            ]
+        },
+        {
+            "Title": "Java-developer",
+            "Employer": "VK",
+            "Requirements": [
+                "Бэкенд разработчик",
+                "Средний (Middle)",
+                "Java"
+            ],
+            "Location": [
+                "Можно удаленно",
+                "Москва"
+            ]
+        },
+        {
+            "Title": "Senior Network Engineer",
+            "Employer": "ЕДИНЫЙ ЦУПИС",
+            "Requirements": [
+                "Администратор сетей",
+                "Администрирование сетей"
+            ],
+            "Location": [
+                "Можно удаленно"
+            ]
+        },
+        {
+            "Title": "Инженер по безопасности приложений (Application Security)",
+            "Employer": "КРОК",
+            "Requirements": [
+                "Инженер по безопасности",
+                "Средний (Middle)",
+                "SAST/DAST",
+                "REST",
+                "OWASP"
+            ],
+            "Location": [
+                "Можно удаленно"
+            ]
+        },
+        {
+            "Title": "Ведущий С++ разработчик в Поиск ",
+            "Employer": "VK",
+            "Requirements": [
+                "Бэкенд разработчик",
+                "Ведущий (Lead)",
+                "C++",
+                "Linux",
+                "Apache Hadoop"
+            ],
+            "Location": [
+                "Можно удаленно",
+                "Москва"
+            ]
+        },
+        {
+            "Title": "SRE инженер",
+            "Employer": "ЛАНИТ",
+            "Requirements": [
+                "Системный администратор",
+                "Средний (Middle)",
+                "Linux",
+                "Kubernetes",
+                "CI/CD",
+                "PostgreSQL"
+            ],
+            "Location": [
+                "Можно удаленно",
+                "Москва"
+            ]
+        },
+        {
+            "Title": "Team Lead DevOps",
+            "Employer": "SberTech",
+            "Requirements": [
+                "Девопс инженер",
+                "Старший (Senior)",
+                "Kubernetes",
+                "Администрирование Linux",
+                "Jenkins",
+                "Git",
+                "Ansible",
+                "Terraform"
+            ],
+            "Location": [
+                "Санкт-Петербург, Нижний Новгород"
+            ]
+        },
+        {
+            "Title": "Senior Rust разработчик",
+            "Employer": "DigitalQ",
+            "Requirements": [
+                "Веб-разработчик",
+                "Старший (Senior)",
+                "Rust",
+                "PostgreSQL",
+                "Git",
+                "Docker"
+            ],
+            "Location": [
+                "Можно удаленно"
+            ]
+        },
+        {
+            "Title": "Requirements and Specification Engineer (RSE)",
+            "Employer": "YADRO",
+            "Requirements": [
+                "Системный аналитик",
+                "Старший (Senior)",
+                "Телекоммуникации",
+                "Спецификация программного обеспечения",
+                "Системный анализ",
+                "C++",
+                "ARM architecture",
+                "ASIC",
+                "FPGA"
+            ],
+            "Location": [
+                "Можно удаленно",
+                "Москва, Санкт-Петербург, Нижний Новгород"
+            ]
+        },
+        {
+            "Title": "Администратор проекта (technical account manager\\Linux engineer)",
+            "Employer": "ГК Астра",
+            "Requirements": [
+                "Системный администратор",
+                "Средний (Middle)",
+                "Ansible",
+                "Bash",
+                "Linux",
+                "KVM",
+                "TCP",
+                "Samba",
+                "Виртуализация"
+            ],
+            "Location": [
+                "Москва"
+            ]
+        },
+        {
+            "Title": "Lead Fraud Analyst",
+            "Employer": "LANCK Telecom",
+            "Requirements": [
+                "Антифрод аналитик",
+                "Старший (Senior)",
+                "Анализ данных",
+                "Microsoft Excel",
+                "Английский язык",
+                "Работа в команде"
+            ],
+            "Location": [
+                "Можно удаленно"
+            ]
+        },
+        {
+            "Title": "Менеджер проектов (PMO)",
+            "Employer": "Авито",
+            "Requirements": [
+                "Менеджер проекта",
+                "Средний (Middle)",
+                "Проектное планирование",
+                "Управление бизнес-процессами",
+                "Оптимизация бизнес-процессов",
+                "Ведение переговоров",
+                "Scrum",
+                "Agile",
+                "Jira",
+                "Моделирование",
+                "SQL"
+            ],
+            "Location": [
+                "Можно удаленно",
+                "Москва"
+            ]
+        },
+        {
+            "Title": "Backend разработчик (Ruby on Rails)",
+            "Employer": "Hoodies",
+            "Requirements": [
+                "Бэкенд разработчик",
+                "Старший (Senior)",
+                "Ruby on Rails",
+                "Ruby",
+                "PostgreSQL"
+            ],
+            "Location": [
+                "Можно удаленно"
+            ]
+        },
+        {
+            "Title": "Руководитель службы эксплуатации",
+            "Employer": "ЛАНИТ",
+            "Requirements": [
+                "Менеджер проекта",
+                "Ведущий (Lead)",
+                "Бюджетирование проектов",
+                "Управление людьми",
+                "Управление проектами",
+                "Ведение переговоров",
+                "Разработка ТЗ",
+                "Jira",
+                "Agile",
+                "PMBOK",
+                "Проектное планирование"
+            ],
+            "Location": [
+                "Москва"
+            ]
+        },
+        {
+            "Title": "Ведущий ITSM разработчик (Remote)",
+            "Employer": "Bell Integrator",
+            "Requirements": [
+                "Системный инженер",
+                "Старший (Senior)",
+                "Управление IT-услугами",
+                "ITIL"
+            ],
+            "Location": [
+                "Можно удаленно",
+                "Москва, Санкт-Петербург, Нижний Новгород"
+            ]
+        },
+        {
+            "Title": "Руководитель направления в операционном центре",
+            "Employer": "МТС",
+            "Requirements": [
+                "Менеджер проекта",
+                "Старший (Senior)",
+                "Управление проектами",
+                "Управление людьми",
+                "Agile",
+                "Scrum",
+                "Kanban",
+                "Оптимизация бизнес-процессов",
+                "Автоматизация процессов",
+                "Стратегическое планирование"
+            ],
+            "Location": [
+                "Москва"
+            ]
+        },
+        {
+            "Title": "Technology Account Manager",
+            "Employer": "Лаборатория Касперского",
+            "Requirements": [
+                "Менеджер по работе с клиентами",
+                "Техническая поддержка",
+                "Google Partners"
+            ],
+            "Location": [
+                "Москва"
+            ]
+        },
+        {
+            "Title": "DevOps / Linux администратор",
+            "Employer": "Сима-ленд",
+            "Requirements": [
+                "Девопс инженер",
+                "Средний (Middle)",
+                "Высоконагруженные системы",
+                "Nginx",
+                "Docker",
+                "Kubernetes",
+                "PostgreSQL",
+                "Elasticsearch",
+                "GitLab",
+                "Администрирование Linux",
+                "DevOps",
+                "CI/CD",
+                "Zabbix"
+            ],
+            "Location": [
+                "Можно удаленно",
+                "Екатеринбург"
+            ]
+        },
+        {
+            "Title": "Ведущий системный администратор / Devops",
+            "Employer": "ЛАНИТ",
+            "Requirements": [
+                "Девопс инженер",
+                "Старший (Senior)",
+                "Kubernetes",
+                "Linux",
+                "PostgreSQL",
+                "MongoDB",
+                "Java",
+                "Высоконагруженные системы",
+                "Docker",
+                "Ansible",
+                "CI/CD",
+                "Prometheus"
+            ],
+            "Location": [
+                "Можно удаленно",
+                "Москва"
+            ]
+        },
+        {
+            "Title": "Senior Go / Golang Developer ",
+            "Employer": "Evrone.com",
+            "Requirements": [
+                "Бэкенд разработчик",
+                "Старший (Senior)",
+                "Golang",
+                "Docker",
+                "PostgreSQL",
+                "Apache Kafka",
+                "Kubernetes",
+                "AWS",
+                "MongoDB",
+                "Redis"
+            ],
+            "Location": [
+                "Можно удаленно"
+            ]
+        }
+    ]
+}
